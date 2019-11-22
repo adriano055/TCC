@@ -1,0 +1,13 @@
+A pasta App contém a aplicação web.
+Para executar o aplicativo é necessário abrir o 
+arquivo index.html da pasta App através de um navegador.
+Na maioria dos navegadores a aplicação do unity não sera executada 
+dentro do html através do proprio computador, 
+somente será executada caso a pagina esteja em um servidor web. 
+Alguns navegadores conseguem executar através do próprio computador, 
+um deles é o Microsoft Edge.
+
+A pasta Projeto contém o projeto do unity.
+Foi ultilizada uma versão do Unity3d de 2017 para a sua criação,
+mas creio que funcione normalmente em versões atuais
+
